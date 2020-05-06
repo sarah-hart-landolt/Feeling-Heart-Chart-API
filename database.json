@@ -1,0 +1,261 @@
+{
+  "users": [
+    {
+      "email": "sarah@sarah.com",
+      "password": "1",
+      "firstName": "Sarah",
+      "lastName": "Landolt",
+      "id": 1
+    }
+  ],
+  "savedCharts": [
+    {
+      "userId": 1,
+      "timestamp": 1588628383653,
+      "price": "$70",
+      "id": 1,
+      "name": ""
+    },
+    {
+      "id": 2,
+      "name": "Sarah's",
+      "userId": 1,
+      "timestamp": 1588711347384,
+      "price": "$70"
+    },
+    {
+      "userId": 1,
+      "timestamp": 1588725844976,
+      "price": "$70",
+      "name": "",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "timestamp": 1588725917443,
+      "price": "$70",
+      "name": "",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "timestamp": 1588726317257,
+      "price": "$70",
+      "name": "",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "timestamp": 1588726378190,
+      "price": "$70",
+      "name": "",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "timestamp": 1588726387293,
+      "price": "$70",
+      "name": "",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "timestamp": 1588726393758,
+      "price": "$70",
+      "name": "",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "timestamp": 1588726398433,
+      "price": "$70",
+      "name": "",
+      "id": 9
+    }
+  ],
+  "savedChartImages": [
+    {
+      "imageId": 6,
+      "emotionId": 2,
+      "id": 1
+    },
+    {
+      "imageId": 1,
+      "emotionId": 1,
+      "savedChartId": 6,
+      "id": 2
+    },
+    {
+      "imageId": 5,
+      "emotionId": 2,
+      "savedChartId": 6,
+      "id": 3
+    },
+    {
+      "imageId": 1,
+      "emotionId": 1,
+      "savedChartId": 7,
+      "id": 4
+    },
+    {
+      "imageId": 5,
+      "emotionId": 2,
+      "savedChartId": 7,
+      "id": 5
+    },
+    {
+      "imageId": 1,
+      "emotionId": 1,
+      "savedChartId": 8,
+      "id": 6
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1556573379193-GUSHKRJ9GJBAPF3HQCRR/ke17ZwdGBToddI8pDm48kAx672TVZdoJFcgHFa0Fgil7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kMlYkjvFlctRdmAM11rxFSGHCfTYI-s7LnXwRZty7HxXSqouQeTz_nGqpH0fE6vjA/guilty.jpeg?format=1500w",
+      "emotionId": 1
+    },
+    {
+      "id": 2,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1556573332386-XSIJZM13T1NP6HI2CAEE/ke17ZwdGBToddI8pDm48kAx672TVZdoJFcgHFa0Fgil7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kMlYkjvFlctRdmAM11rxFSGHCfTYI-s7LnXwRZty7HxXSqouQeTz_nGqpH0fE6vjA/guilty+2.jpeg?format=1500w",
+      "emotionId": 1
+    },
+    {
+      "id": 3,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1556573329494-W37G70UZ4UI20XOBSY85/ke17ZwdGBToddI8pDm48kAx672TVZdoJFcgHFa0Fgil7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kMlYkjvFlctRdmAM11rxFSGHCfTYI-s7LnXwRZty7HxXSqouQeTz_nGqpH0fE6vjA/guilty+1.jpeg?format=2500w",
+      "emotionId": 1
+    },
+    {
+      "id": 4,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1556573369314-R7OT90OYH8AAGH6KDJEO/ke17ZwdGBToddI8pDm48kLIj3bb_uLOihttx7hjsPSV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0lqfkVpRp1g_2L-WsTQRP4IUeQvxhQLxDj0GQzUQT21mzi2feheXFTkax-QWHoTYtA/guilty+8.jpeg?format=1500w",
+      "emotionId": 1
+    },
+    {
+      "id": 5,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1559930998012-PZY7D16SC4KYUFBW99BQ/ke17ZwdGBToddI8pDm48kLIj3bb_uLOihttx7hjsPSV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0lqfkVpRp1g_2L-WsTQRP4IUeQvxhQLxDj0GQzUQT21mzi2feheXFTkax-QWHoTYtA/proud+14.jpeg?format=1000w",
+      "emotionId": 2
+    },
+    {
+      "id": 6,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1559930970877-7RH8ML2UEONTSR6RB6RF/ke17ZwdGBToddI8pDm48kAx672TVZdoJFcgHFa0Fgil7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kMlYkjvFlctRdmAM11rxFSGHCfTYI-s7LnXwRZty7HxXSqouQeTz_nGqpH0fE6vjA/proud+9.jpeg?format=1000w",
+      "emotionId": 2
+    },
+    {
+      "id": 7,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1559930983761-XI4T1FBQ3E8VPETYO7EV/ke17ZwdGBToddI8pDm48kMpp2otyNwnnwPG0zF6rHnl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0nQwvinDXPV4EYh2MRzm-RTT29O0YM4c0fVyUDn51a9cavZTLcjiWTXVyEmXVLMFtg/proud+11.jpeg?format=1000w",
+      "emotionId": 2
+    },
+    {
+      "id": 8,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1559930932583-KEIAVHNSF4JP4CAVN8JB/ke17ZwdGBToddI8pDm48kMpp2otyNwnnwPG0zF6rHnl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0nQwvinDXPV4EYh2MRzm-RTT29O0YM4c0fVyUDn51a9cavZTLcjiWTXVyEmXVLMFtg/proud+3.jpeg?format=1000w",
+      "emotionId": 2
+    },
+    {
+      "id": 9,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1559932736962-0AC132FX0O6Q8KIK8XTH/ke17ZwdGBToddI8pDm48kLIj3bb_uLOihttx7hjsPSV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0lqfkVpRp1g_2L-WsTQRP4IUeQvxhQLxDj0GQzUQT21mzi2feheXFTkax-QWHoTYtA/confused+17.jpeg?format=1000w",
+      "emotionId": 3
+    },
+    {
+      "id": 10,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1559932719693-69HXZMYZFY6L2NV8KY44/ke17ZwdGBToddI8pDm48kLIj3bb_uLOihttx7hjsPSV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0lqfkVpRp1g_2L-WsTQRP4IUeQvxhQLxDj0GQzUQT21mzi2feheXFTkax-QWHoTYtA/confused+12.jpeg?format=1000w",
+      "emotionId": 3
+    },
+    {
+      "id": 11,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1559932685594-1UIPF8CI6P6OUUN2T1TA/ke17ZwdGBToddI8pDm48kLIj3bb_uLOihttx7hjsPSV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0lqfkVpRp1g_2L-WsTQRP4IUeQvxhQLxDj0GQzUQT21mzi2feheXFTkax-QWHoTYtA/confused+4.jpeg?format=1000w",
+      "emotionId": 3
+    },
+    {
+      "id": 12,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1559932695237-10SYUBWDXOG3IPMLQBYY/ke17ZwdGBToddI8pDm48kAx672TVZdoJFcgHFa0Fgil7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kMlYkjvFlctRdmAM11rxFSGHCfTYI-s7LnXwRZty7HxXSqouQeTz_nGqpH0fE6vjA/confused+7.jpeg?format=1000w",
+      "emotionId": 3
+    },
+    {
+      "id": 13,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1565570411176-LAEO8S6ZQUYVHHNH0ZMV/ke17ZwdGBToddI8pDm48kPx8hYhtL2jse1HvwsK3-zF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jRb3i7UjwNNySrgFE_nWauHHKFrUD-U65D-usSZ8cuh86lFitX-eWb_S_xGlaoU-g/sad+18.jpeg?format=1500w",
+      "emotionId": 4
+    },
+    {
+      "id": 14,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1565570408381-FTY0CGU52X46UGNDJ5GJ/ke17ZwdGBToddI8pDm48kLrjpu8IIRj8Whf-X9Tj1GR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jRb3i7UjwNNySrgFE_nWau9X2WWUx3z50k_qnmKrVrDhcHiqee5VRLCzD4PO-holA/sad+19.jpeg?format=1500w",
+      "emotionId": 4
+    },
+    {
+      "id": 15,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1565570279523-OPE46H20521LC14GRG0Z/ke17ZwdGBToddI8pDm48kAx672TVZdoJFcgHFa0Fgil7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kMlYkjvFlctRdmAM11rxFSGHCfTYI-s7LnXwRZty7HxXSqouQeTz_nGqpH0fE6vjA/sad+1.jpeg?format=1500w",
+      "emotionId": 4
+    },
+    {
+      "id": 16,
+      "url": "https://images.squarespace-cdn.com/content/v1/53d8799de4b0873b56402a1e/1565570299457-Y2UVR3NO6WDQSS6XFNB9/ke17ZwdGBToddI8pDm48kPx8hYhtL2jse1HvwsK3-zF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jRb3i7UjwNNySrgFE_nWauHHKFrUD-U65D-usSZ8cuh86lFitX-eWb_S_xGlaoU-g/sad+6.jpeg?format=1500w",
+      "emotionId": 4
+    }
+  ],
+  "emotions": [
+    {
+      "id": 1,
+      "emotion": "guilty"
+    },
+    {
+      "id": 2,
+      "emotion": "proud"
+    },
+    {
+      "id": 3,
+      "emotion": "confused"
+    },
+    {
+      "id": 4,
+      "emotion": "sad"
+    },
+    {
+      "id": 5,
+      "emotion": "lonely"
+    },
+    {
+      "id": 6,
+      "emotion": "afraid"
+    },
+    {
+      "id": 7,
+      "emotion": "happy"
+    },
+    {
+      "id": 8,
+      "emotion": "jealous"
+    },
+    {
+      "id": 9,
+      "emotion": "brave"
+    },
+    {
+      "id": 10,
+      "emotion": "mad"
+    },
+    {
+      "id": 11,
+      "emotion": "nervous"
+    },
+    {
+      "id": 12,
+      "emotion": "disappointed"
+    },
+    {
+      "id": 13,
+      "emotion": "frustrated"
+    },
+    {
+      "id": 14,
+      "emotion": "grateful"
+    },
+    {
+      "id": 15,
+      "emotion": "embarrassed"
+    },
+    {
+      "id": 16,
+      "emotion": "hopeful"
+    }
+  ]
+}
